@@ -8,5 +8,6 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python](./LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.md)|Medium|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](./AddTwoNumbers/AddTwoNumbers.md)|Medium|
 |001|[Two Sum](https://oj.leetcode.com/problems/two-sum/)|[python](./TwoSum/TwoSum.md)|Medium|
