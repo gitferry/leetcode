@@ -8,6 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python](./LongestCommonPrefix/LongestCommonPrefix.md)|Easy|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](./PalindromeNumber/PalindromeNumber.md)|Easy|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python](./ReverseInteger/ReverseInteger.md)|Easy|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python](./ZigZagConversion/ZigZagConversion.md)|Easy|
