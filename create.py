@@ -27,10 +27,12 @@ def create_new_problem(problem_name):
 
 ---
 
-代码实现：[%s](./%s.py)
-
 ---
+
+代码实现：[%s](./%s.py)
 	''' % (problem_name, url_name, problem_name, short_name)
+
+
 	md_file.write(md_content)
 	md_file.close()
 
