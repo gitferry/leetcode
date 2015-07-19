@@ -8,6 +8,7 @@ To create new problems including python surce file and mark down file
 '''
 
 import os
+from datetime import date
 
 def create_new_problem(problem_name):
 	name_words = problem_name.split(' ')
@@ -31,7 +32,20 @@ def create_new_problem(problem_name):
 	md_file.write(md_content)
 	md_file.close()
 
-	py_file = file(os.path.join(short_name, short_name+'.py'), 'w').close()
+	current_date = date.today()
+
+	py_file = file(os.path.join(short_name, short_name+'.py'), 'w')
+	py_content = \
+	'''#!/usr/bin/env python
+# coding=utf-8
+\'''
+github: https://github.com/gitferry
+author: Fangyu Gai <gaigai508@gmail.com>
+date  : %s
+\'''
+''' % (current_date.strftime("%d/%m/%Y"))
+	py_file.write(py_content)
+	py_file.close()
 
 
 if __name__ == '__main__':
