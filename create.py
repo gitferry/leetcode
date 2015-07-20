@@ -12,7 +12,7 @@ from datetime import date
 
 def create_new_problem(problem_name):
 	name_words = problem_name.split(' ')
-	url_name = '-'.join(name_words)
+	url_name = '-'.join(name_words).lower()
 	short_name = problem_name.replace(' ', '')
 
 	os.mkdir(short_name)
