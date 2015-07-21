@@ -15,7 +15,7 @@ def create_new_problem(problem_name):
 	url_name = '-'.join(name_words).lower()
 	short_name = problem_name.replace(' ', '')
 
-	os.mkdir(short_name)
+	os.mkdir('./algorithms/' + short_name)
 
 	md_file = file(os.path.join(short_name, short_name+'.md'), 'w')
 	md_content = \
