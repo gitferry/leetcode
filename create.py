@@ -15,9 +15,10 @@ def create_new_problem(problem_name):
 	url_name = '-'.join(name_words).lower()
 	short_name = problem_name.replace(' ', '')
 
-	os.mkdir('./algorithms/' + short_name)
+	problem_path = './algorithms/' + short_name
+	os.mkdir(problem_path)
 
-	md_file = file(os.path.join(short_name, short_name+'.md'), 'w')
+	md_file = file(os.path.join(problem_path, short_name+'.md'), 'w')
 	md_content = \
 	'''# [%s](https://leetcode.com/problems/%s/)
 
@@ -38,7 +39,7 @@ def create_new_problem(problem_name):
 
 	current_date = date.today()
 
-	py_file = file(os.path.join(short_name, short_name+'.py'), 'w')
+	py_file = file(os.path.join(problem_path, short_name+'.py'), 'w')
 	py_content = \
 	'''#!/usr/bin/env python
 # coding=utf-8
