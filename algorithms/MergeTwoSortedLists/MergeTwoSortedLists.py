@@ -36,7 +36,7 @@ class Solution:
 				head2 = head2.next
 			node = node.next
 
-		# return head.next
+		return head.next
 		self.showList(head.next)
 
 
