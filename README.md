@@ -9,6 +9,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python](./algorithms/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.md)|Easy|
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[python](./algorithms/GenerateParentheses/GenerateParentheses.md)|Medium|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.md)|Easy|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python](./algorithms/ValidParentheses/ValidParentheses.md)|Easy|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[python](./algorithms/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.md)|Easy|
