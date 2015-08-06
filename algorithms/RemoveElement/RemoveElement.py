@@ -15,7 +15,7 @@ class Solution:
 		length = len(nums)
 
 		for index in range(length):
-			while index < length - 1 and nums[index] == val:
+			while index < length and nums[index] == val:
 				nums.pop(index)
 				length -= 1
 

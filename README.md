@@ -8,6 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[python](./algorithms/ImplementStr/ImplementStr.md)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./algorithms/RemoveElement/RemoveElement.md)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python](./algorithms/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.md)|Easy|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./algorithms/SwapNodesinPairs/SwapNodesinPairs.md)|Medium|
