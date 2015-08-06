@@ -8,6 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./algorithms/RemoveElement/RemoveElement.md)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python](./algorithms/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.md)|Easy|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./algorithms/SwapNodesinPairs/SwapNodesinPairs.md)|Medium|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[python](./algorithms/GenerateParentheses/GenerateParentheses.md)|Medium|
