@@ -10,6 +10,7 @@
 |---| ----- | -------- | ---------- |
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python](./algorithms/SearchInsertPosition/SearchInsertPosition.md)|Medium|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[python](./algorithms/SearchforaRange/SearchforaRange.md)|Medium|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[python](./algorithms/SearchinRotatedSortedArray/SearchinRotatedSortedArray.md)|Hard|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[python](./algorithms/ImplementStr/ImplementStr.md)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./algorithms/RemoveElement/RemoveElement.md)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python](./algorithms/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.md)|Easy|
