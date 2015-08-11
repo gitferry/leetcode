@@ -8,6 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[python](./algorithms/CountandSay/CountandSay.md)|Easy|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python](./algorithms/SearchInsertPosition/SearchInsertPosition.md)|Medium|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[python](./algorithms/SearchforaRange/SearchforaRange.md)|Medium|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[python](./algorithms/SearchinRotatedSortedArray/SearchinRotatedSortedArray.md)|Hard|
