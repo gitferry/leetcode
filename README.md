@@ -9,6 +9,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[python](./algorithms/Permutations/Permutations.md)|Medium|
+|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[python](./algorithms/MultiplyStrings/MultiplyStrings.md)|Medium|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[python](./algorithms/CombinationSum/CombinationSum.md)|Medium|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[python](./algorithms/CountandSay/CountandSay.md)|Easy|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python](./algorithms/SearchInsertPosition/SearchInsertPosition.md)|Medium|
