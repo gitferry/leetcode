@@ -8,6 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[python](./algorithms/RotateImage/RotateImage.md)|Medium|
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[python](./algorithms/Permutations/Permutations.md)|Medium|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[python](./algorithms/MultiplyStrings/MultiplyStrings.md)|Medium|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[python](./algorithms/CombinationSumII/CombinationSumII.md)|Medium|
