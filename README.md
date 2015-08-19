@@ -11,7 +11,7 @@
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[python](./algorithms/RotateImage/RotateImage.md)|Medium|
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[python](./algorithms/Permutations/Permutations.md)|Medium|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[python](./algorithms/MultiplyStrings/MultiplyStrings.md)|Medium|
-|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python](./TrappingRainWater/TrappingRainWater.md)|Hard|
+|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python](./algorithms/TrappingRainWater/TrappingRainWater.md)|Hard|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[python](./algorithms/CombinationSumII/CombinationSumII.md)|Medium|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[python](./algorithms/CombinationSum/CombinationSum.md)|Medium|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/)|[python](./algorithms/CountandSay/CountandSay.md)|Easy|
