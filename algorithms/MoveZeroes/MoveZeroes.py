@@ -23,8 +23,6 @@ class Solution(object):
 
             index += 1
 
-        return nums
-
 if __name__ == '__main__':
     s = Solution()
     nums = [0,0,1]
