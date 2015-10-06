@@ -12,6 +12,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[python](./algorithms/MissingNumber/MissingNumber.md)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./algorithms/UglyNumber/UglyNumber.md)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./algorithms/AddDigits/AddDigits.md)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[python](./algorithms/Powxn/Powxn.md)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[python](./algorithms/RotateImage/RotateImage.md)|Medium|
