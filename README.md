@@ -8,6 +8,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[python](./algorithms/WordPattern/WordPattern.md)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./algorithms/MoveZeroes/MoveZeroes.md)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[python](./algorithms/MissingNumber/MissingNumber.md)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./algorithms/UglyNumber/UglyNumber.md)|Easy|
