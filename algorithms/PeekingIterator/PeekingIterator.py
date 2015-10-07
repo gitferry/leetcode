@@ -39,10 +39,3 @@ class PeekingIterator(object):
         """
 
         return self.iterator.hasNext()
-
-
-# Your PeekingIterator object will be instantiated and called as such:
-# iter = PeekingIterator(Iterator(nums))
-# while iter.hasNext():
-#     val = iter.peek()   # Get the next element but not advance the iterator.
-#     iter.next()         # Should return the same value as [val].
