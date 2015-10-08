@@ -15,7 +15,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./algorithms/UglyNumber/UglyNumber.md)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./algorithms/AddDigits/AddDigits.md)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./algorithms/ValidAnagram/ValidAnagram.md)|Easy|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[python](./algorithms/ProductofArrayExceptSelf/productExceptSelf.md)|Medium|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[python](./algorithms/ProductofArrayExceptSelf/ProductofArrayExceptSelf.md)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[python](./algorithms/Powxn/Powxn.md)|Medium|
