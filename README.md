@@ -19,6 +19,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[python](./algorithms/LowestCommonAncestorofaBinarySearchTree/LowestCommonAncestorofaBinarySearchTree.md)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[python](./algorithms/ImplementQueueusingStacks/ImplementQueueusingStacks.md)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[python](./algorithms/PowerofTwo/PowerofTwo.md)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./algorithms/KthSmallestElementinaBST/KthSmallestElementinaBST.md)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[python](./algorithms/Powxn/Powxn.md)|Medium|
