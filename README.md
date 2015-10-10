@@ -21,6 +21,7 @@
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[python](./algorithms/PowerofTwo/PowerofTwo.md)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./algorithms/KthSmallestElementinaBST/KthSmallestElementinaBST.md)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[python](./algorithms/SameTree/SameTree.md)|Easy|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[python](./algorithms/Powxn/Powxn.md)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[python](./algorithms/RotateImage/RotateImage.md)|Medium|
