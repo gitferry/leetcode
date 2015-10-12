@@ -20,6 +20,8 @@
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[python](./algorithms/ImplementQueueusingStacks/ImplementQueueusingStacks.md)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[python](./algorithms/PowerofTwo/PowerofTwo.md)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./algorithms/KthSmallestElementinaBST/KthSmallestElementinaBST.md)|Medium|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[python](./algorithms/ImplementStackusingQueues/ImplementStackusingQueues.md)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](./algorithms/ContainsDuplicate/ContainsDuplicate.md)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[python](./algorithms/SameTree/SameTree.md)|Easy|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
