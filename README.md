@@ -16,6 +16,7 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./algorithms/AddDigits/AddDigits.md)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./algorithms/ValidAnagram/ValidAnagram.md)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[python](./algorithms/ProductofArrayExceptSelf/ProductofArrayExceptSelf.md)|Medium|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[python](./algorithms/DeleteNodeinaLinkedList/DeleteNodeinaLinkedList.md)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[python](./algorithms/LowestCommonAncestorofaBinarySearchTree/LowestCommonAncestorofaBinarySearchTree.md)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[python](./algorithms/ImplementQueueusingStacks/ImplementQueueusingStacks.md)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[python](./algorithms/PowerofTwo/PowerofTwo.md)|Easy|
