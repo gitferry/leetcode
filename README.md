@@ -26,6 +26,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[python](./algorithms/ReverseLinkedList/ReverseLinkedList.md)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[python](./algorithms/MajorityElement/MajorityElement.md)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./algorithms/ExcelSheetColumnNumber/ExcelSheetColumnNumber.md)|Easy|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[python](./algorithms/FindMinimuminRotatedSortedArray/FindMinimuminRotatedSortedArray.md)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[python](./algorithms/SameTree/SameTree.md)|Easy|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
