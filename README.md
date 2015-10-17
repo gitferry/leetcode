@@ -9,6 +9,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[python](./algorithms/WordPattern/WordPattern.md)|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[python](./algorithms/FindtheDuplicateNumber/FindtheDuplicateNumber.md)|Hard|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[python](./algorithms/PeekingIterator/PeekingIterator.md)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./algorithms/MoveZeroes/MoveZeroes.md)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[python](./algorithms/MissingNumber/MissingNumber.md)|Medium|
