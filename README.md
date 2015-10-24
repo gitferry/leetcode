@@ -24,7 +24,7 @@
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./algorithms/KthSmallestElementinaBST/KthSmallestElementinaBST.md)|Medium|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[python](./algorithms/ImplementStackusingQueues/ImplementStackusingQueues.md)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](./algorithms/ContainsDuplicate/ContainsDuplicate.md)|Easy|
-|216|[Combination Sum III](https://leetcode.com/problems/contains-duplicate/)|[python](./algorithms/CombinationSumIII/CombinationSumIII.md)|Medium|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[python](./algorithms/CombinationSumIII/CombinationSumIII.md)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[python](./algorithms/ReverseLinkedList/ReverseLinkedList.md)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[python](./algorithms/MajorityElement/MajorityElement.md)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./algorithms/ExcelSheetColumnNumber/ExcelSheetColumnNumber.md)|Easy|
