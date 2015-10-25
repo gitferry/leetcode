@@ -34,6 +34,7 @@
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[python](./algorithms/Powxn/Powxn.md)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[python](./algorithms/RotateImage/RotateImage.md)|Medium|
+|047|[PermutationsII](https://leetcode.com/problems/permutations-ii/)|[python](./algorithms/PermutationsII/PermutationsII.md)|Medium|
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[python](./algorithms/Permutations/Permutations.md)|Medium|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[python](./algorithms/MultiplyStrings/MultiplyStrings.md)|Medium|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python](./algorithms/TrappingRainWater/TrappingRainWater.md)|Hard|
