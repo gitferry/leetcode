@@ -31,7 +31,7 @@
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[python](./algorithms/FindMinimuminRotatedSortedArray/FindMinimuminRotatedSortedArray.md)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./algorithms/SingleNumber/SingleNumber.md)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[python](./algorithms/SameTree/SameTree.md)|Easy|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[python](./algorithms/UniquePaths/UniquePaths.md)|Medium|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[python](./algorithms/UniquePaths/UniquePaths.md)|Medium|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python](./algorithms/MaximumSubarray/MaximumSubarray.md)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[python](./algorithms/Powxn/Powxn.md)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[python](./algorithms/RotateImage/RotateImage.md)|Medium|
